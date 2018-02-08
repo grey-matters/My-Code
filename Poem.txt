@@ -3,4 +3,5 @@ The rainbow
 Purple
 Pink
 Yellow
+VIBGYOR
 Colors of the rainbow
